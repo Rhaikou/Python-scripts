@@ -6,7 +6,6 @@
 # 4. Run this script from command line: jyugpa.py <path-to-your-transcript>
 
 import sys
-import urllib
 from lxml import etree
 
 try:
